@@ -9,7 +9,9 @@
   "dependencies": {
     "body-parser": "*",
     "ejs": "^2.5.7",
-    "express": "*"
+    "express": "*",
+    "express-validator": "^3.2.1",
+    "mongojs": "^2.4.1"
   },
   "author": "Gavin Wolf",
   "license": "ISC"
